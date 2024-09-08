@@ -1,5 +1,5 @@
 import './App.css'
-import { UploadPage } from './pages/UploadPage'
+import { UploadPage } from './pages/upload/UploadPage'
 
 function App() {
 
